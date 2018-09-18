@@ -28,3 +28,4 @@ Thank you to the list of people below for helping with the project. Should you b
 | Denis Žoljom          | dingo_bastard          |
 | YuanHao Chiang        | yuanhao                |
 | Lee Taylor            | leetaylor5455          |
+| Junya Doi             | doidoi                 |
